@@ -26,10 +26,10 @@
         "*://*.mail.google.com/mail/*"
       ],
       "js": [
-        "client.js",
-        "jquery-3.2.1.min.js"
+        "jquery-3.2.1.min.js",
+        "client.js"
       ],
-      "run_at": "document_end"
+      "run_at": "document_start"
     }
   ],
   "background": {
